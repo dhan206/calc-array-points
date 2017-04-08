@@ -1,2 +1,2 @@
 # calc-array-points
-A Calculator command line application writing in Swift for INFO449 -- iOS Mobile Application Development
+Calculator functions written in Swift that demonstrates the use of generics, tuples, dictionaries, and optionals for INFO449 -- iOS Mobile Application Development
